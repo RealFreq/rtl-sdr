@@ -39,3 +39,10 @@ CMakeCache.txt
 */CMakeFiles
 CMakeFiles
 *.cmake
+compile
+src/rtl_adsb
+src/rtl_eeprom
+src/rtl_fm
+src/rtl_power
+src/rtl_test
+src/convenience/.dirstamp
